@@ -1,2 +1,2 @@
-#!/bin/bash
-mode=$(stat -c %a ollen), chmod $mode hello
+#1/bin/bash
+chmod --
