@@ -1,2 +1,2 @@
 #!/bin/bash
-set | grep | env | declare -F | awk
+set; env; declare -F
