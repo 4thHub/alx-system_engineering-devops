@@ -1,2 +1,2 @@
 #!/bin/bash
-tree $PATH
+DIRS=$(find . -type d -mindpeth $n)
